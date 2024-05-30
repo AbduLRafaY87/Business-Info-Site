@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body, html{
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    body{
+        font-size: 11px;
+    }
+}
